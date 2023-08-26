@@ -4,7 +4,7 @@ $visitorEmail = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$emailFrom = 'myCollege.com/contact';
+$emailFrom = 'info@college-website-omega.vercel.app';
 
 $emailSubject = 'New Form Submission';
 
